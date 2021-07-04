@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "study-ionic",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
